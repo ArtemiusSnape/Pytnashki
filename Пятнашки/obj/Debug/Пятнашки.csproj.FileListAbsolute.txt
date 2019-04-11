@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.fm1.resources
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stack\Пятнашки\bin\Debug\Пятнашки.exe
+C:\Users\User\source\repos\Stack\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.exe
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.pdb
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.Player.resources
+C:\Users\User\source\repos\Stack\Пятнашки\obj\Debug\Пятнашки.Best.resources
